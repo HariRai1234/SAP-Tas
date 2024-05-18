@@ -1,17 +1,17 @@
 {
   "scopes": [
     {
-      "name": "$XSAPPNAME.CloudKitchenAdmin",
-      "description": "CloudKitchenAdmin"
+      "name": "$XSAPPNAME.SAP-TaskAdmin",
+      "description": "SAP-TaskAdmin"
     }
   ],
   "attributes": [],
   "role-templates": [
     {
-      "name": "CloudKitchenAdmin",
+      "name": "SAP-TaskAdmin",
       "description": "Role for Administration of CloudKitchen",
       "scope-references": [
-        "$XSAPPNAME.CloudKitchenAdmin"
+        "$XSAPPNAME.SAP-TaskAdmin"
       ]
     }
   ],
